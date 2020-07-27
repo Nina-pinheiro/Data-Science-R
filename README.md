@@ -19,5 +19,7 @@ Projeto Machine Learning / Estatística em R
 
 🍀 Agradecimento
 
-* Toda comunidade de  TI e  pessoas que estão me ajudando nessa caminhada=)
+* Toda comunidade de  TI e  pessoas que estão me ajudando nessa caminhada
+
+
 🍀 License MIT
