@@ -21,5 +21,10 @@ Projeto Machine Learning / Estatística em R
 
 * Toda comunidade de  TI e  pessoas que estão me ajudando nessa caminhada
 
+🍀 Referências
+
+https://www.kaggle.com/datasets -> Salary
 
 🍀 License MIT
+
+
